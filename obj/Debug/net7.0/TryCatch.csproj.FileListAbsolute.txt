@@ -1,0 +1,15 @@
+D:\Patika\TryCatch\bin\Debug\net7.0\TryCatch.exe
+D:\Patika\TryCatch\bin\Debug\net7.0\TryCatch.deps.json
+D:\Patika\TryCatch\bin\Debug\net7.0\TryCatch.runtimeconfig.json
+D:\Patika\TryCatch\bin\Debug\net7.0\TryCatch.dll
+D:\Patika\TryCatch\bin\Debug\net7.0\TryCatch.pdb
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.csproj.AssemblyReference.cache
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfoInputs.cache
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.AssemblyInfo.cs
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.csproj.CoreCompileInputs.cache
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.dll
+D:\Patika\TryCatch\obj\Debug\net7.0\refint\TryCatch.dll
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.pdb
+D:\Patika\TryCatch\obj\Debug\net7.0\TryCatch.genruntimeconfig.cache
+D:\Patika\TryCatch\obj\Debug\net7.0\ref\TryCatch.dll
